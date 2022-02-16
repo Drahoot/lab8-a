@@ -18,6 +18,7 @@ header img{
 header ul{
   display: flex;
   justify-content: space-evenly;
+  list-style: none;
 }
 
 header ul li{
@@ -41,6 +42,8 @@ main ul{
   justify-content: space-between;
   margin-top: 30px;
   margin-bottom: 30px;
+  list-style: none;
+  padding: 0px;
 }
 
 section{
